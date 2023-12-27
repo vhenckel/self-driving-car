@@ -8,7 +8,7 @@ Self driving car with Javascript
   <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/vhenckel/self-driving-car?style=for-the-badge">
 </p>
 
-![alt text](https://github.com/vhenckel/self-driving-car/self_driving.gif)
+![Self driving example](https://github.com/vhenckel/self-driving-car/blob/main/self_driving.gif)
 
 ## :page_with_curl: Sobre
 
